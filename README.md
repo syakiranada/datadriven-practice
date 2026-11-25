@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/alpine_haven_5529), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-25 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-03 |
 
 <!-- datadriven:index:end -->
